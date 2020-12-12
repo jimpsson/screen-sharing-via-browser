@@ -1,6 +1,6 @@
 # sharescreen
 
-![Application Screenshot](https://github.com/jimpsson/screen-sharing-via-browser/raw/main/screen.png "Shows how the app looks")
+![Application Screenshot](https://github.com/jimpsson/screen-sharing-via-browser/raw/main/screen.gif "Shows how the app looks")
 
 ## Project setup
 ```
