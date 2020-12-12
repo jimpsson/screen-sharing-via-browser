@@ -1,5 +1,7 @@
 # sharescreen
 
+![Application Screenshot](https://github.com/jimpsson/screen-sharing-via-browser/blob/main/screen.jpg?raw=true "Shows how the app looks")
+
 ## Project setup
 ```
 yarn install
